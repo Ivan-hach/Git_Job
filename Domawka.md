@@ -57,3 +57,15 @@ git rm
 ```sh
 ***
 ```
+# Полезныё ссылки для работы с Git
+
+__список сайтов__
+
+1.  [Хабр](https://habr.com/ru/companies/ruvds/articles/599929/)
+
+2. [ilfire.ru](https://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print)
+
+3. [proglib](https://proglib.io/p/git-cheatsheet)
+
+4. [htmlacasemy.ru](https://habr.com/ru/companies/ruvds/articles/599929/)
+
