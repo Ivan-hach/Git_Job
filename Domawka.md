@@ -18,6 +18,6 @@ git log
 ```
 ### Команда для сокращённого просмотра commit -m
 ```sh
-git --onelin
+git log --onelin
 ```
 
