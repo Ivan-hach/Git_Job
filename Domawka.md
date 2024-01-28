@@ -24,3 +24,7 @@ git log --onelin
 ```sh
 git checkout
 ```
+### Команда показывает текущую версию GIT
+```
+git version
+```
