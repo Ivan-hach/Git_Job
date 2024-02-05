@@ -65,6 +65,11 @@ git branch
 Например:
 git branch new_txt
 ```
+##### Команда для того что бы переключаться по веткам.
+```sh
+git checkout
+```
+
 
 # Синтаксис языка _MarkDaun_
 
