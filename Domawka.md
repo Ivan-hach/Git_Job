@@ -106,7 +106,7 @@ __список сайтов:__
 
 ![Cat](Cat.jpg)
 
-## Не удержался и решил запилить ещё и ~~картинку~~.
+## Не удержался и решил запилить ещё и ~~логотип картинку~~.
 
 ***
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
