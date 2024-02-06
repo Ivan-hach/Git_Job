@@ -165,7 +165,7 @@ got log --oneline --graph
 
 * Вложенные списки - выполняем отступ 
 
-На сайте [Doka](https://doka.guide/tools/markdown/) есть ещё много интересных фишечек.
+На сайте Doka есть ещё много интересных фишечек.
 
 ***
 
@@ -187,6 +187,8 @@ __список сайтов:__
 3. [proglib](https://proglib.io/p/git-cheatsheet)
 
 4. [htmlacasemy.ru](https://habr.com/ru/companies/ruvds/articles/599929/)
+
+5. [Doka](https://doka.guide/tools/markdown/) 
 
 ***
 # Так же в MarkDoun можно вставлять картинки.
